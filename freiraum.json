@@ -672,7 +672,7 @@
          "name":"gartenplan transp",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":61,
          "x":0,
          "y":0
@@ -684,7 +684,7 @@
          "name":"Kachelebene 36",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":61,
          "x":0,
          "y":0
