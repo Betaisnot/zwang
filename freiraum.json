@@ -745,7 +745,7 @@
         {
          "columns":10,
          "firstgid":65,
-         "image":"..\/zwangmap\/tilesets\/Tileset_32x32_bruno.png",
+         "image":"Tileset_32x32_bruno.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
